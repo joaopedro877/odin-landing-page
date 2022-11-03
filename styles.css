@@ -134,3 +134,12 @@ button{
 .call-to-action-subtext{
     font-size: 20px;
 }
+
+.fifth-section{
+    background:#1f2937 ;
+    color:#e5e7eb;
+    text-align: center;
+    font-size: 20px;
+    padding:40px 100px;
+    
+}
